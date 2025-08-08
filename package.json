@@ -1,0 +1,13 @@
+{
+  "name": "trust-developer-docs",
+  "version": "1.0.0",
+  "description": "Trust Wallet Developer Documentation",
+  "scripts": {
+    "dev": "echo 'Documentation site - visit GitBook or use static server'",
+    "build": "echo 'Documentation site - static files ready'",
+    "start": "echo 'Documentation site - no server needed'"
+  },
+  "keywords": ["trust-wallet", "documentation", "gitbook"],
+  "author": "Trust Wallet",
+  "license": "MIT"
+}
